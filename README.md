@@ -4,7 +4,7 @@ Proyecto en **Java** que implementa y prueba un conjunto de utilidades matemáti
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 JAVA0078_M4_UtilidadesMatematicas/
